@@ -31,3 +31,21 @@ Versão principal:
 ## 🔠 Tipografia
 
 - **Primária:** [Montserrat](https://fonts.google.com/specimen/Montserrat) (Bold pa
+- 
+📂 Uso da Marca
+
+✔️ Permitido:
+
+Uso em currículos, LinkedIn, GitHub, e-mails profissionais, apresentações.
+
+Versões adaptadas em fundo claro ou escuro.
+
+❌ Não permitido:
+
+Alterar as cores oficiais.
+
+Distorcer o logo ou usar em baixa resolução.
+
+Usar sem o slogan quando a aplicação for formal.
+
+© 2025 Guilherme Lima Tech – Todos os direitos reservados.
